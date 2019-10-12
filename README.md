@@ -1,5 +1,6 @@
 # Adversarially-Trained-End-to-end-Korean-Singing-Voice-Synthesis-System
-Juheon Lee, Hyeong-Seok Choi, Chang-Bin Jeon, Junghyun Koo, Kyogu Lee
+Juheon Lee, Hyeong-Seok Choi, Chang-Bin Jeon, Junghyun Koo, Kyogu Lee \\
+
 INTERSPEECH 2019 (best student paper award, oral presentation)
 
 
