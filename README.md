@@ -11,6 +11,6 @@ In this paper, we propose an end-to-end Korean singing voice synthesis system fr
 In addition, we show that two other proposed methods - local conditioning of text and pitch, and conditional adversarial training - are crucial for a realistic generation of the human singing voice in the super-resolution process. Finally, both quantitative and qualitative evaluations are conducted, confirming the validity of all proposed methods.
 
 
-# check out [generated singing voice]
+#### project page : http://ksinging.mystrikingly.com/
+#### generated sample : https://www.youtube.com/watch?v=bzefkAGeAeo&t=45s
 
-https://www.youtube.com/watch?v=bzefkAGeAeo&t=45s
