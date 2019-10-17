@@ -13,4 +13,4 @@ In addition, we show that two other proposed methods - local conditioning of tex
 
 # check out [generated singing voice]
 
-[generated sample audio] : https://www.youtube.com/watch?v=bzefkAGeAeo&t=45s
+https://www.youtube.com/watch?v=bzefkAGeAeo&t=45s
