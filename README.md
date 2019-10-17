@@ -12,5 +12,5 @@ In addition, we show that two other proposed methods - local conditioning of tex
 
 
 #### project page : http://ksinging.mystrikingly.com/
-#### generated sample : https://www.youtube.com/watch?v=bzefkAGeAeo&t=45s
-
+#### generated sample1 : https://www.youtube.com/watch?v=oKjuoR6Y54g
+#### generated sample2 : https://www.youtube.com/watch?v=bzefkAGeAeo&t=45s
